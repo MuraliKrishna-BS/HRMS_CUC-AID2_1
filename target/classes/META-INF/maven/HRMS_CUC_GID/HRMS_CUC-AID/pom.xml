@@ -5,6 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <build>
   <!--PUSH1 -->
+	   <!--PULL1 -->
+	   <!--PUSH2 -->
   <!-- -->
   <pluginManagement>
   <plugins>
