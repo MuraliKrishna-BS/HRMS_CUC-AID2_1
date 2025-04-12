@@ -8,7 +8,8 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features= 
-		"Features",
+		//"Features",
+		"Features/AttendanceVerification.feature",
 		//"Features/PendingforApproval.feature",
 		glue="StepDefinition",
 		plugin = {"progress", "html:target/cucumber-report.html", 
